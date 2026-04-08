@@ -10,16 +10,6 @@ NavyOS is an Open Source Android Platform, based on LineageOS, an iOS 26-inspire
 
 <br>
 
-## Supported Devices
-
-| Device | Codename | Status |
-|w|----ww------|-----ww---|
-| — | — | Coming soon |
-
-Device support is expanding. If you want to bring NavyOS to your device, see [Contributing](#contributing).
-
-<br />
-
 ## Building
 
 **Requirements:** Ubuntu 22.04+, 16GB RAM minimum, 300GB free disk space, Python 3.x
@@ -42,34 +32,6 @@ brunch <codename>
 ```
 
 A full build guide, including driver setup and common troubleshooting, is available in the [Wiki](https://github.com/NavyOS/.github/wiki).
-
-<br />
-
-## Repository Structure
-
-```
-NavyOS/
-├── android_manifest            # Repo manifest — start here
-├── vendor_navy                 # NavyOS-specific overlays and configs
-├── packages_apps_NavyLauncher  # Home screen and launcher
-├── packages_apps_NavyUI        # System UI components
-├── device_*                    # Device trees
-├── kernel_*                    # Kernel sources
-└── OTA                         # OTA update configuration
-```
-
-<br />
-
-## Contributing
-
-NavyOS is open to contributions of all kinds.
-
-- **Bug reports** — Open an issue with a logcat and steps to reproduce
-- **Device ports** — Submit a working device tree with build instructions
-- **UI/UX** — Open a discussion before submitting design-related PRs
-- **Translations** — Help localize NavyOS for your language
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 <br />
 
@@ -96,12 +58,3 @@ http://www.apache.org/licenses/LICENSE-2.0
 ```
 
 <br />
-
----
-
-<div align="center">
-<br />
-
-*NavyOS — Clean. Fluid. Open.*
-
-</div>
