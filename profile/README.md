@@ -39,9 +39,9 @@ A full build guide, including driver setup and common troubleshooting, is availa
 
 Discussions, build updates, and support happen on Telegram.
 
-- **Group** — [t.me/navyos](https://t.me/navyos)
-- **Updates** — [t.me/navyos_updates](https://t.me/navyos_updates)
-- **XDA Thread** — Coming soon
+- **Group** : [t.me/navyos](https://t.me/navyos)
+- **Updates** : [t.me/navyos_updates](https://t.me/navyos_updates)
+- **XDA Thread** : Coming soon
 
 <br />
 
