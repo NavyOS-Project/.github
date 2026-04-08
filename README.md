@@ -1,31 +1,3 @@
-# .github
-
-<div align="center">
-<br />
-
-<img src="https://img.shields.io/badge/-NavyOS-0A1628?style=for-the-badge&logoColor=white" height="32" />
-
-<br />
-<br />
-
-**Android, refined.**
-
-A custom Android operating system built on LineageOS and AOSP,
-designed to bring the visual clarity and fluidity of iOS 26 to open-source Android.
-
-<br />
-
-![Android](https://img.shields.io/badge/Android-AOSP-0A1628?style=flat-square&logo=android&logoColor=white)
-![Base](https://img.shields.io/badge/Base-LineageOS-0A1628?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Development-0A1628?style=flat-square)
-![License](https://img.shields.io/badge/License-Apache%202.0-0A1628?style=flat-square)
-
-</div>
-
----
-
-<br />
-
 NavyOS is not a reskin. It is a deliberate rethinking of how Android looks and feels — borrowing the design language of iOS 26, and rebuilding it from the ground up on a stable AOSP and LineageOS foundation.
 
 Every detail is intentional. From the way sheets slide into view, to how notifications stack, to the weight of the typography — NavyOS is built for people who care about the experience, not just the specs.
