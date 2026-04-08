@@ -1,39 +1,19 @@
-NavyOS is not a reskin. It is a deliberate rethinking of how Android looks and feels — borrowing the design language of iOS 26, and rebuilding it from the ground up on a stable AOSP and LineageOS foundation.
-
-Every detail is intentional. From the way sheets slide into view, to how notifications stack, to the weight of the typography — NavyOS is built for people who care about the experience, not just the specs.
-
-<br />
-
-## Design
-
-NavyOS is guided by three principles:
-
-**Clarity.** The interface gets out of the way. Clean layouts, consistent spacing, and purposeful use of color ensure that content — not chrome — takes focus.
-
-**Continuity.** Transitions feel physical. Interactions have weight. Elements respond the way you expect them to, every time.
-
-**Restraint.** Nothing is added without reason. Every component earns its place.
-
-<br />
+NavyOS is an Open Source Android Platform, based on LineageOS, an iOS 26-inspired UI
 
 ## Features
 
-- iOS 26-inspired UI system — rebuilt natively on Android
-- Physics-based animations and fluid transitions throughout the OS
-- Frosted glass (blur) effects on sheets, notifications, and overlays
-- Redesigned system apps — dialer, settings, launcher, and more
-- Dynamic theming with true light, dark, and adaptive modes
+- iOS 26-inspired UI system, rebuilt natively on Android
+- Redesigned system apps, settings, launcher, and more
 - Privacy controls and permission management from LineageOS
 - Regular Android security patch updates
-- OTA (over-the-air) update support
 - Zero bloatware
 
-<br />
+<br>
 
 ## Supported Devices
 
 | Device | Codename | Status |
-|--------|----------|--------|
+|w|----ww------|-----ww---|
 | — | — | Coming soon |
 
 Device support is expanding. If you want to bring NavyOS to your device, see [Contributing](#contributing).
