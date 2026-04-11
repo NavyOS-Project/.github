@@ -32,7 +32,7 @@
 
 ```bash
 # Initialize the manifest
-repo init -u https://github.com/NavyOS/android_manifest.git -b main
+repo init -u https://github.com/NavyOS-Project/android.git -b main
 
 # Sync sources
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
